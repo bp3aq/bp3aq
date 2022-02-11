@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.26)  30 DEC 2021 20:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.26)  11 FEB 2022 17:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -373,24 +373,27 @@ part-ment of Math-e-mat-ics,
 [1
 
 {C:/Users/badri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (1.11469pt too wide) in paragraph at lines 455--455
+Overfull \hbox (1.11469pt too wide) in paragraph at lines 456--456
 []\OT1/cmr/m/sc/10 Extracurricular 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 468.
+(hyperref)                removing `\\' on input line 469.
 
 
 AED: lastpage setting LastPage
 [2] (Badri_CV.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `Badri_CV.out' has not changed.
 (rerunfilecheck)             Checksum: FFF159B0DC93583F6A3F7B7509291CC3;1428.
  ) 
 Here is how much of TeX's memory you used:
  9062 strings out of 478659
  145242 string characters out of 2845919
- 462565 words of memory out of 3000000
+ 461566 words of memory out of 3000000
  27074 multiletter control sequences out of 15000+600000
  405326 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -403,7 +406,7 @@ ype1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/badri/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/badri/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/badri/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Badri_CV.pdf (2 pages, 103519 bytes).
+Output written on Badri_CV.pdf (2 pages, 103574 bytes).
 PDF statistics:
  96 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
