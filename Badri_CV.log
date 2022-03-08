@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.26)  16 FEB 2022 18:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.26)  8 MAR 2022 11:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -394,7 +394,7 @@ Here is how much of TeX's memory you used:
  27075 multiletter control sequences out of 15000+600000
  405326 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,13n,63p,241b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,13n,63p,241b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\badri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Users/badri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/badri/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -403,7 +403,7 @@ ype1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/badri/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/badri/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/badri/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Badri_CV.pdf (2 pages, 104746 bytes).
+Output written on Badri_CV.pdf (2 pages, 104721 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  14 named destinations out of 1000 (max. 500000)
