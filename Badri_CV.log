@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.21)  10 JAN 2023 08:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.21)  10 JAN 2023 09:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -360,6 +360,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 337--338
 
 Underfull \hbox (badness 10000) in paragraph at lines 338--339
 
+ []
+
+
+Overfull \hbox (8.88763pt too wide) in paragraph at lines 339--340
+[]\OT1/cmr/m/n/10 Congruence re-la-tions for Borcherds ex-po-nents (Co-author: 
+Mono A) (in prepa-ra-tion) 
  []
 
 
