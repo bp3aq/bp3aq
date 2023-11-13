@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.26)  28 AUG 2023 04:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.17)  13 NOV 2023 17:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./Badri_CV.tex
 (Badri_CV.tex
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-06-16>
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-07>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (C:\Program Files\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -36,19 +36,19 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count195
 \calc@Cskip=\skip52
 )
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/comment\comment.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write3
 
 Excluding comment 'comment')
 \bibhang=\skip53
 \bibsep=\skip54
 
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
+\KV@toks@=\toks16
 )
 (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -67,20 +67,19 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutheight=\dimen148
 \Gm@layouthoffset=\dimen149
 \Gm@layoutvoffset=\dimen150
-\Gm@dimlist=\toks18
+\Gm@dimlist=\toks17
 
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg)
-)
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip55
 \enit@outerparindent=\dimen151
-\enit@toks=\toks19
+\enit@toks=\toks18
 \enit@inbox=\box51
 \enit@count@id=\count199
 \enitdp@description=\count266
-) (C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.st
-y
+)
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
 \f@nch@headwidth=\skip56
@@ -93,21 +92,12 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip63
 \f@nch@O@orf=\skip64
 )
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/lastpage\lastpage.sty
-Package: lastpage 2023/07/24 v2.0c lastpage: 2.09 or 2e? (HMM)
-
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/lastpage\lastpage2e.st
-y
-Package: lastpage2e 2023/07/24 v2.0c Decide which 2e lastpage version to use (H
-MM)
-
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/lastpage\lastpagemoder
-n.sty
-Package: lastpagemodern 2023-07-24 v2.0c Refers to last page's name (HMM; JPG)
-) 
-))
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+)
 \footpageshift=\skip65
- (C:\Program Files\MiKTeX\tex/latex/graphics\color.sty
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
 
 (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
@@ -120,142 +110,136 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 )
 (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx))
 (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2023-05-16 v7.00y Hypertext links for LaTeX
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
 
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+)
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.
-sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.st
-y
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefin
-ekeys.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.st
+y
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.
-sty
+) (C:\Users\badri\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacr
-o.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2023-05-16 v2.51 Cross-referencing by name of section
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
 
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\getti
-tlestring.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestrin
+g.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.st
-y
+ (C:\Users\badri\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count267
-) (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count268
 )
 \@linkdim=\dimen152
-\Hy@linkcounter=\count269
-\Hy@pagecounter=\count270
-
-(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2023-05-16 v7.00y Hyperref: PDFDocEncoding definition (HO)
+\Hy@linkcounter=\count268
+\Hy@pagecounter=\count269
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count271
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count270
+
 (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2023-05-16 v7.00y Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4167.
-Package hyperref Info: Link nesting OFF on input line 4172.
-Package hyperref Info: Hyper index ON on input line 4175.
-Package hyperref Info: Plain pages OFF on input line 4182.
-Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4434.
-\c@Hy@tempcnt=\count272
+Package hyperref Info: Bookmarks ON on input line 4425.
+\c@Hy@tempcnt=\count271
 
 (C:\Program Files\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4772.
+LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen153
 
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcal
-c.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count273
+\Fld@menulength=\count272
 \Field@Width=\dimen154
 \Fld@charsize=\dimen155
-Package hyperref Info: Hyper figures OFF on input line 6051.
-Package hyperref Info: Link nesting OFF on input line 6056.
-Package hyperref Info: Hyper index ON on input line 6059.
-Package hyperref Info: backreferencing OFF on input line 6066.
-Package hyperref Info: Link coloring OFF on input line 6071.
-Package hyperref Info: Link coloring with OCG OFF on input line 6076.
-Package hyperref Info: PDF/A mode OFF on input line 6081.
- (C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count274
-\c@Item=\count275
-\c@Hfootnote=\count276
+\Hy@abspage=\count273
+\c@Item=\count274
+\c@Hfootnote=\count275
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2023-05-16 v7.00y Hyperref driver for pdfTeX
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
 
 (C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count277
-\c@bookmark@seq@number=\count278
+\Fld@listcount=\count276
+\c@bookmark@seq@number=\count277
 
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfi
-lecheck.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.
+sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-(C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\unique
-counter.sty
+(C:\Users\badri\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.
+sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -265,10 +249,9 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 129.
 Package hyperref Info: Option `breaklinks' set `true' on input line 129.
-
-(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count279
+ (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count278
 \l__pdf_internal_box=\box52
 )
 (Badri_CV.aux)
@@ -327,19 +310,22 @@ LaTeX Font Info:    ... okay on input line 231.
 * \@reversemargintrue
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 231.
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
+\scratchcounter=\count279
 \scratchdimen=\dimen156
 \scratchbox=\box53
-\nofMPsegments=\count281
-\nofMParguments=\count282
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count283
+\nofMPsegments=\count280
+\nofMParguments=\count281
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count282
 \MPscratchDim=\dimen157
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks21
+\MPnumerator=\count283
+\makeMPintoPDFobject=\count284
+\everyMPtoPDFconversion=\toks20
 )
 Package hyperref Info: Link coloring ON on input line 231.
  (Badri_CV.out) (Badri_CV.out)
@@ -389,13 +375,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 351--352
 
 [1
 
-{C:/Users/Administrator/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 359--360
+{C:/Users/badri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 359--361
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--362
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
 
  []
 
@@ -425,12 +411,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 370--372
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--381
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 381--382
+Underfull \hbox (badness 10000) in paragraph at lines 372--374
 
  []
 
@@ -444,7 +425,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 383--384
 
  []
 
-
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 384--385
 
  []
@@ -464,7 +445,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 387--388
 
  []
 
-[2]
+
 Underfull \hbox (badness 10000) in paragraph at lines 388--389
 
  []
@@ -480,42 +461,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 390--391
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 447--448
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--449
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--450
+Underfull \hbox (badness 10000) in paragraph at lines 393--394
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 450--458
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--459
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 452--453
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 459--460
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--461
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 461--462
+Underfull \hbox (badness 10000) in paragraph at lines 454--462
 
  []
 
@@ -525,46 +506,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 462--463
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 476--478
-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 478--480
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 480--481
+Underfull \hbox (badness 10000) in paragraph at lines 464--465
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 481--482
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--498
+Underfull \hbox (badness 10000) in paragraph at lines 466--467
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 498--499
+Underfull \hbox (badness 10000) in paragraph at lines 480--482
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--500
+Underfull \hbox (badness 10000) in paragraph at lines 482--484
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--501
+Underfull \hbox (badness 10000) in paragraph at lines 484--485
 
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+
+ []
+
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 501--502
 
  []
@@ -575,18 +556,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 502--503
  []
 
 
-Overfull \hbox (1.11469pt too wide) in paragraph at lines 508--508
+Underfull \hbox (badness 10000) in paragraph at lines 503--504
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--506
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--507
+
+ []
+
+
+Overfull \hbox (1.11469pt too wide) in paragraph at lines 512--512
 []\OT1/cmr/m/sc/10 Extracurricular 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--512
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 512--514
-
  []
 
 
@@ -595,37 +586,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 514--516
  []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 521.
+Underfull \hbox (badness 10000) in paragraph at lines 516--518
 
-[4] 
-enddocument/afterlastpage: lastpage setting LastPage.
-(Badri_CV.aux)
- ***********
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-06-16>
- ***********
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--520
+
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 525.
+
+
+AED: lastpage setting LastPage
+[5] (Badri_CV.aux)
 Package rerunfilecheck Info: File `Badri_CV.out' has not changed.
 (rerunfilecheck)             Checksum: 631D9D98499AAEDC624B7FC745AFA0EE;1524.
  ) 
 Here is how much of TeX's memory you used:
- 9333 strings out of 476036
- 146362 string characters out of 5789615
- 1870763 words of memory out of 5000000
- 29964 multiletter control sequences out of 15000+600000
- 515283 words of font info for 40 fonts, out of 8000000 for 9000
+ 9101 strings out of 476339
+ 145421 string characters out of 5797934
+ 1866340 words of memory out of 5000000
+ 29426 multiletter control sequences out of 15000+600000
+ 514183 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,14n,79p,276b,552s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Administrator\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
-600\tcrm1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.
-pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Prog
-ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmti10.pfb>
-Output written on Badri_CV.pdf (4 pages, 114861 bytes).
+ 75i,13n,76p,276b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\badri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
+Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmti10.pfb>
+Output written on Badri_CV.pdf (5 pages, 115482 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
  89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
